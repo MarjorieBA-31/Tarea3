@@ -1,0 +1,6 @@
+c:\users\my\documents\visual studio 2015\Projects\Tarea3c\Tarea3c\bin\Debug\Tarea3c.exe.config
+c:\users\my\documents\visual studio 2015\Projects\Tarea3c\Tarea3c\bin\Debug\Tarea3c.exe
+c:\users\my\documents\visual studio 2015\Projects\Tarea3c\Tarea3c\bin\Debug\Tarea3c.pdb
+c:\users\my\documents\visual studio 2015\Projects\Tarea3c\Tarea3c\obj\Debug\Tarea3c.exe
+c:\users\my\documents\visual studio 2015\Projects\Tarea3c\Tarea3c\obj\Debug\Tarea3c.pdb
+C:\Users\MY\Documents\Visual Studio 2015\Projects\Tarea3c\Tarea3c\obj\Debug\Tarea3c.csprojResolveAssemblyReference.cache

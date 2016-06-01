@@ -1,0 +1,6 @@
+c:\users\my\documents\visual studio 2015\Projects\Tarea3progra\Tarea3progra\bin\Debug\Tarea3progra.exe.config
+c:\users\my\documents\visual studio 2015\Projects\Tarea3progra\Tarea3progra\bin\Debug\Tarea3progra.exe
+c:\users\my\documents\visual studio 2015\Projects\Tarea3progra\Tarea3progra\bin\Debug\Tarea3progra.pdb
+c:\users\my\documents\visual studio 2015\Projects\Tarea3progra\Tarea3progra\obj\Debug\Tarea3progra.csprojResolveAssemblyReference.cache
+c:\users\my\documents\visual studio 2015\Projects\Tarea3progra\Tarea3progra\obj\Debug\Tarea3progra.exe
+c:\users\my\documents\visual studio 2015\Projects\Tarea3progra\Tarea3progra\obj\Debug\Tarea3progra.pdb
